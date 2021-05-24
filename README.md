@@ -9,3 +9,5 @@
 # cd pkg-outo-install
 
 # php bot.php
+
+echo razer "\n"
